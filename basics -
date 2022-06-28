@@ -1,0 +1,4 @@
+You can use aws sts get-caller-identity
+Using setx to set an environment variable changes
+AWS CLI: aws iam list-users.
+AWS API: ListUsers.
